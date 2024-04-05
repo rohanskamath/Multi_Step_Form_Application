@@ -17,5 +17,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ![Screenshot 2024-04-05 150523](https://github.com/rohanskamath/Multi_Step_Form_Application/assets/123623049/f2782bb0-39bc-4237-a598-2e21e8fbc04d)
 ![Screenshot 2024-04-05 150532](https://github.com/rohanskamath/Multi_Step_Form_Application/assets/123623049/316170cb-4037-411e-b580-5b2fa66477de)
 ![Screenshot 2024-04-05 150546](https://github.com/rohanskamath/Multi_Step_Form_Application/assets/123623049/ccb30e55-9c46-4f3e-a1f6-65ae25399eac)
-![Screenshot 2024-04-05 150559](https://github.com/rohanskamath/Multi_Step_Form_Application/assets/123623049/a0bc9590-f95a-4cf9-9508-cf86cd249611)
 ![Screenshot 2024-04-05 150611](https://github.com/rohanskamath/Multi_Step_Form_Application/assets/123623049/4f5e7bd2-b53e-4496-ade0-471d6927607e)
+![Screenshot 2024-04-05 150559](https://github.com/rohanskamath/Multi_Step_Form_Application/assets/123623049/a0bc9590-f95a-4cf9-9508-cf86cd249611)
